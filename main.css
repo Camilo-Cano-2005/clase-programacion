@@ -1,0 +1,56 @@
+body {
+   background-color: #000;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+header {
+    margin: 20px;
+    background-color:lightblue;
+    border: 2px solid lightseagreen;
+}
+
+header h1 {
+    text-align: center;
+    font-size:2.5em;
+}
+
+main {
+    margin: 20px;
+    background-color: #fff;
+}
+
+main .boton {
+    padding: 10px;
+    text-align: center;
+
+}
+
+main .boton a button {
+    width: 90px;
+    margin: 5px;
+    background-color: lightgreen;
+}
+
+main h2 {
+    font-size: 2em;
+    padding: 10px;
+}
+
+div.img, div.video {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+div.img img, main video {
+    width: 350px;
+
+}
+
+main video {
+    padding-bottom: 20px;
+}
+main p {
+    padding: 15px 30px;
+    text-align: justify;
+}
